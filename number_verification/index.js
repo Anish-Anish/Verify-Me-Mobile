@@ -1,7 +1,5 @@
-// index.js
-
+// mobile verification Api
 //https://apilayer.com/marketplace/number_verification-api
-
 
 const express = require('express');
 const axios = require('axios');
