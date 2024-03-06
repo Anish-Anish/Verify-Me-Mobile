@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "start": "index.js",
   "author": "anish",
   "license": "ISC",
   "dependencies": {
